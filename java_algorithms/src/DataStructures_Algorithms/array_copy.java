@@ -21,7 +21,7 @@ public class array_copy {
         System.arraycopy(intArray, 0, arrayCopy, 0, intArray.length);
         
         for (int i = 0; i < arrayCopy.length; i++)
-            System.out.println(arrayCopy[i]);
+            System.out.println( arrayCopy[i]);
         
     }
     
