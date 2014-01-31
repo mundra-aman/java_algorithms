@@ -1,6 +1,6 @@
 /*********************************************************************
 
- Description : While statement
+ Description : While statement demonstration
  Author		 : Amandeep Singh
  Website	 : http://kodevelop.com/
  Email		 : aman.adsm@gmail.com

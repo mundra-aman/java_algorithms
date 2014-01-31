@@ -1,11 +1,11 @@
 /*********************************************************************
- 
- Description : switch statement
+
+ Description : switch statement demonstration
  Author		 : Amandeep Singh
  Website	 : http://kodevelop.com/
  Email		 : aman.adsm@gmail.com
  github		 : https://github.com/aman-devy
-  
+
  **********************************************************************/
 
 package JavaFoundation;
@@ -31,5 +31,5 @@ public class switch_example {
 	          System.out.println("i is greater than 3.");
 	      }
 	  }
-	
+
 }

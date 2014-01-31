@@ -1,11 +1,11 @@
 /*********************************************************************
- 
- Description : switch statement
+
+ Description : demonstrating the use of break in a switch statement
  Author		 : Amandeep Singh
  Website	 : http://kodevelop.com/
  Email		 : aman.adsm@gmail.com
  github		 : https://github.com/aman-devy
-  
+
  **********************************************************************/
 
 package JavaFoundation;
@@ -33,5 +33,5 @@ public class switch_break_use {
 		          System.out.println("i is 10 or more.");
 		      }
 		  }
-	
+
 }
