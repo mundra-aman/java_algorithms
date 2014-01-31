@@ -4,7 +4,7 @@ public class foundation_block_of_code {
 
 	public static void main(String args[]) {
 	    int x, y;
-	  
+
 	    y = 20;
 
 	    // the target of this loop is a block
@@ -14,5 +14,5 @@ public class foundation_block_of_code {
 	      y = y - 2;
 	    }
 	  }
-	
+
 }

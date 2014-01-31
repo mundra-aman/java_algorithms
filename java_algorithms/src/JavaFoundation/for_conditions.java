@@ -18,9 +18,9 @@ public class for_conditions {
 	    i = 0;
 	    for( ; !done; ) {
 	      System.out.println("i is " + i);
-	      if(i == 10) done = true;
+	      if(i == 14) done = true;
 	      i++;
 	    }
 	  }
-	
+
 }

@@ -1,11 +1,11 @@
 /*********************************************************************
- 
- Description : Program showing break and goto statements combination usage
+
+ Description : Program showing break statement in nested loop & goto statement
  Author		 : Amandeep Singh
  Website	 : http://kodevelop.com/
  Email		 : aman.adsm@gmail.com
  github		 : https://github.com/aman-devy
-  
+
  **********************************************************************/
 
 
@@ -24,5 +24,5 @@ public class break_nested_loops_use {
 	    }
 	    System.out.println("Loops complete.");
 	  }
-	
+
 }

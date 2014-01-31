@@ -1,12 +1,12 @@
 /*********************************************************************
- 
- Description : program to find if sum of divisors is equal to the 
+
+ Description : program to find if sum of divisors is equal to the
  			   number itself
  Author		 : Amandeep Singh
  Website	 : http://kodevelop.com/
  Email		 : aman.adsm@gmail.com
  github		 : https://github.com/aman-devy
-  
+
  **********************************************************************/
 
 package JavaFoundation;
@@ -23,6 +23,6 @@ public class arithmatic_sumofdivisors {
 			if(n%i==0)		sum+=i;
 			System.out.println(sum);
 		if(sum!=n)   System.out.println("sum not equal to " + n);
-		else System.out.println("sum is equal to " + n);		
+		else System.out.println("sum is equal to " + n);
 	}
 }

@@ -16,8 +16,8 @@ public class for_example {
 
 	    b = 4;
 	    for(a=1; a<b; a++) {
-	      System.out.println("a = " + a);
-	      System.out.println("b = " + b);
+	      System.out.print("a = " + a);
+	      System.out.println(" b = " + b);
 	      b--;
 	    }
 	  }

@@ -1,5 +1,5 @@
 /*********************************************************************
-Description: program demonstrating nested for loop 
+Description: program demonstrating nested for loop
 Author: 	 Amandeep Singh
 Website: 	 http://kodevelop.com/
 Email:  	 aman.adsm@gmail.com
@@ -16,9 +16,9 @@ public class for_nested {
 
 	    for(i=0; i<10; i++) {
 	      for(j=i; j<10; j++)
-	        System.out.print(".");
+	      System.out.print(".");
 	      System.out.println();
 	    }
 	  }
-	
+
 }
