@@ -21,5 +21,4 @@ public class foundation_block_scope {
 	   // System.out.println("y is " + y); // y still remains a mystery
 	    								   // here outside the loop
 	    }
-
 }
