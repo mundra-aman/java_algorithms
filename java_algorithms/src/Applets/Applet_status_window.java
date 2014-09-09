@@ -1,4 +1,4 @@
-package AppletsServlets;
+package Applets;
 
 	// Using the Status Window.
 	import java.awt.*;

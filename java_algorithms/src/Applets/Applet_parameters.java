@@ -1,4 +1,4 @@
-package AppletsServlets;
+package Applets;
 
 	// Use Parameters
 	import java.awt.*;

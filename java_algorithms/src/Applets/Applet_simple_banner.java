@@ -1,4 +1,4 @@
-package AppletsServlets;
+package Applets;
 
 	/* A simple banner applet.
 

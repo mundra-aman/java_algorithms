@@ -9,7 +9,7 @@
   
  **********************************************************************/
 
-package AppletsServlets;
+package Applets;
 
 	
 	import java.awt.*;

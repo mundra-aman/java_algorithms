@@ -1,4 +1,4 @@
-package AppletsServlets;
+package Applets;
 
 	// An Applet skeleton.
 	import java.awt.*;
