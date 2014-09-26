@@ -1,6 +1,6 @@
 /*********************************************************************
 
- Description : linked list implementation
+ Description : A java program demonstrating linked list implementation
  Author		 : Amandeep Singh
  Website	 : http://kodevelop.com/
  Email		 : aman.adsm@gmail.com
@@ -26,17 +26,20 @@ public class linkedlist_implementation {
 	        //Deleting
 	        Link.deletefromFirst();
 	        Link.printList();
-	    }
+	    }  // end of main method
 
 
+// Link class
 	    protected  static class Link {
 	        private int data;
 	        private Link nextlink;
 
+	        // constructor
 	        public Link(int d1) {
 	            this.data = d1;
 	        }
 
+	        // insert method
 	        public static void insert(int d1) {
 	            Link a = new Link(d1);
 	            a.nextlink = null;
@@ -50,6 +53,7 @@ public class linkedlist_implementation {
 	            System.out.println("Inserted -:"+d1);
 	        }
 
+	        // delete method
 	        public static void deletefromFirst() {
 	            if(null!=first)
 	            {
@@ -61,6 +65,7 @@ public class linkedlist_implementation {
 	            }
 	        }
 
+	        // print method
 	        public static void printList() {
 	            System.out.println("Elements in the list are");
 	            System.out.println("-------------------------");
@@ -70,5 +75,7 @@ public class linkedlist_implementation {
 	                temp = temp.nextlink;
 	            }
 	        }
-	    }
-	}
+
+	    } // end of link class
+
+	} // end of main class

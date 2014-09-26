@@ -14,11 +14,11 @@ class dLink{
 	public long dData;
 	public dLink next;
 
-	public dLink(long d){ 
+	public dLink(long d){
 		dData = d; }
 
-	public void displayLink(){ 
-		System.out.print(dData + " "); 
+	public void displayLink(){
+		System.out.print(dData + " ");
 	}
 
 } // end class Link
@@ -81,17 +81,17 @@ public class linkedlist_double_ended{
 		FirstLastList theList = new FirstLastList();
 
 		theList.insertFirst(22); theList.insertLast(11); // insert at rear
-		theList.insertFirst(44); theList.insertLast(33); 
-		theList.insertFirst(66); theList.insertLast(55); 
+		theList.insertFirst(44); theList.insertLast(33);
+		theList.insertFirst(66); theList.insertLast(55);
 
 		theList.displayList(); // display the list
 
-		theList.deleteFirst(); 
-		theList.deleteFirst(); 
+		theList.deleteFirst();
+		theList.deleteFirst();
 
 		theList.displayList(); // display again
 	}
 	//insert at front
 	//delete first two items
-} // end main() 
-//end class
+} // end of main()
+//end of class
